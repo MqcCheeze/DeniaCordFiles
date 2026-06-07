@@ -25,10 +25,10 @@
 
   /* ACCENT COLORS */
 
-  --denia-white: #e8e4db;
-  --denia-dark: #4e4c40;
+  --denia-light: #e9c9d6;
+  --denia-dark: #9e75c2;
 
-  --main-color: var(--denia-white); /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --main-color: var(--denia-light); /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #928f8a; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b565; /* positive accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #bd2929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
@@ -118,7 +118,7 @@
   --popout-shading: rgba(0, 0, 0, 0.8); /* popouts background shading color [default: rgba(0, 0, 0, 0.8)] */
   --modal-shading: rgba(0, 0, 0, 0.6); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
   --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
-  --normal-text: var(--denia-white); /* text color [default: #dcdcde] */
+  --normal-text: var(--denia-light); /* text color [default: #dcdcde] */
   --muted-text: #86868e; /* muted text color [default: #86868e] */
 }
 
@@ -166,7 +166,7 @@
 .button_a22cb0,
 .centerButton_f1ceac.colorable_f1ceac.join_f1ceac.fullRegionButton_f1ceac.button__201d5.lookBlank__201d5.colorBrand__201d5 
 {
-  background-color: var(--denia-white);
+  background-color: var(--denia-light);
 }
 
 .centerButton_f1ceac.colorable_f1ceac.disconnect_f1ceac.fullRegionButton_f1ceac.button__201d5.lookBlank__201d5.colorBrand__201d5 {
@@ -182,7 +182,7 @@
 }
 
 .centerButton_f1ceac.colorable_f1ceac.disconnect_f1ceac.fullRegionButton_f1ceac.button__201d5.lookBlank__201d5.colorBrand__201d5 > div > svg > path {
-  fill: var(--denia-white);
+  fill: var(--denia-light);
 }
 
 
