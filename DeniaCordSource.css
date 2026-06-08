@@ -26,7 +26,8 @@
   /* ACCENT COLORS */
 
   --denia-light: #e9c9d6;
-  --denia-dark: #9e75c2;
+  --denia-dark: #1e2852;
+  --main-text-color: #fbfbfb;
 
   --main-color: var(--denia-light); /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #928f8a; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
@@ -107,7 +108,7 @@
   --popout-shading: rgba(0, 0, 0, 0.7); /* popouts background shading color [default: rgba(0, 0, 0, 0.7)] */
   --modal-shading: rgba(0, 0, 0, 0.5); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
   --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
-  --normal-text: #fbfbfb; /* text color [default: #fbfbfb] */
+  --normal-text: var(--main-text-color); /* text color [default: #fbfbfb] */
   --muted-text: #94949c; /* muted text color [default: #94949c] */
 }
 
@@ -118,7 +119,7 @@
   --popout-shading: rgba(0, 0, 0, 0.8); /* popouts background shading color [default: rgba(0, 0, 0, 0.8)] */
   --modal-shading: rgba(0, 0, 0, 0.6); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
   --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
-  --normal-text: var(--denia-light); /* text color [default: #dcdcde] */
+  --normal-text: var(--main-text-color); /* text color [default: #dcdcde] */
   --muted-text: #86868e; /* muted text color [default: #86868e] */
 }
 
