@@ -1,14 +1,14 @@
 Activity Type: Playing
-Application Name: with Sora ♡
+Application Name: with Denia ♡
 
 Large Image URL/Key: https://github.com/MqcCheeze/SoraCordFiles/blob/main/SoraIcon.png?raw=true
-Large Image Text: Kasugano Sora
-Large Image clickable URL: https://trjr.wordpress.com/
+Large Image Text: Denia
+Large Image clickable URL: https://wutheringwaves.kurogames.com/en/main#main
 Small Image URL/Key: https://github.com/MqcCheeze/SoraCordFiles/blob/main/Resources/SoraIcon.png?raw=true
-Small Image Text: Hozumi Academy
+Small Image Text: Startorch Academy
 
-Button1 URL: https://trjr.wordpress.com/
-Button1 Text: Kasugano
+Button1 URL: ###
+Button1 Text: ###
 
-Button2 URL: https://trjr.wordpress.com/
-Button2 Text: Family
+Button2 URL: ###
+Button2 Text: ###
