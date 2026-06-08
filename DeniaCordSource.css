@@ -21,7 +21,7 @@
   --wallpaper-4: url('https://github.com/MqcCheeze/DeniaCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper4.png?raw=true');
   --wallpaper-5: url('https://github.com/MqcCheeze/DeniaCordFiles/blob/main/Resources/Wallpapers/DiscordWallpaper5.png?raw=true');
   
-  --wallpaper-variant: var(--wallpaper-4); /* !To change the wallpaper, modify the number inside "var(--wallpaper-X)". "X" should be a number */
+  --wallpaper-variant: var(--wallpaper-1); /* !To change the wallpaper, modify the number inside "var(--wallpaper-X)". "X" should be a number */
 
   /* ACCENT COLORS */
 
