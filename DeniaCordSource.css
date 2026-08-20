@@ -152,3 +152,12 @@
     color:var(--text-muted);
     order:3
 }
+
+.title_edbb22 > div {
+    font-size: 0;
+}
+
+.title_edbb22 > div::after {
+    content: var(--direct-message-text);
+    font-size: 14px;
+}
