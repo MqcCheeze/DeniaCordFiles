@@ -153,3 +153,6 @@
     order:3
 }
 
+.title_edbb22 > div {
+    content: var(--direct-message-text);
+}
