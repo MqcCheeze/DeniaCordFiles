@@ -130,7 +130,7 @@
 
 /* ADD ADDITIONAL CSS BELOW HERE */
 
-:is(.theme-dark,.theme-light):not(.platform-osx) .leading_c38106::before {
+:is(.theme-dark,.theme-light):not(.platform-osx) .leading_3zSH5d::before {
     content:"DeniaCord";
     position:static;
     margin-left:10px;
@@ -141,7 +141,7 @@
     filter:drop-shadow(0 0 5px var(--hsl-main-color))
 }
 
-:is(.theme-dark,.theme-light):not(.platform-osx) .leading_c38106::after {
+:is(.theme-dark,.theme-light):not(.platform-osx) .leading_3zSH5d::after {
     content:"23.06.2026";
     position:static;
     margin-top:-5px;
